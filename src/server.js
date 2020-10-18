@@ -1,10 +1,8 @@
 const express = require("express");
 const path = require("path");
-
 const pages = require("./pages.js");
-
 const server = express();
-
+const port = process.env.PORT || 5000
 server
   .use(express.urlencoded({ extended: true }))
 
@@ -18,6 +16,4 @@ server
   .get("/create-orphanage", pages.createOrphanage)
   .post("/save-orphanage", pages.saveOrphanage);
 
-server.listen(5500, () => {
-  console.log("Server started");
-});
+server.listen(port,console.log(`Servidor executando na porta ${{port}}`))

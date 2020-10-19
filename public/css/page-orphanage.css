@@ -30,6 +30,8 @@ main {
   grid-template-columns: repeat(6, 1fr);
   column-gap: 1.6rem;
   margin: 16px 40px 0;
+  align-items: center;
+  justify-content: center;
 }
 
 .images button {

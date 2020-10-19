@@ -12,7 +12,6 @@
 
 <br>
 
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -42,4 +41,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Gabriel Leandro</p>
+<p align="center">Desenvolvido com 💜 por Gabriel Leandro.</p>

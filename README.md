@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é um projeto que visa facilitar visitas as instuições infantis próximos a você 💜
+O Happy é um projeto que visa facilitar visitas as instituições infantis próximos a você 💜
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
